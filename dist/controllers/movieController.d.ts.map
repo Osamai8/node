@@ -1,0 +1,1 @@
+{"version":3,"file":"movieController.d.ts","sourceRoot":"","sources":["../../controllers/movieController.ts"],"names":[],"mappings":"AAAA,OAAO,EAAE,OAAO,EAAE,QAAQ,EAAE,YAAY,EAAE,MAAM,SAAS,CAAC;AAI1D,QAAA,MAAM,SAAS,GAAU,KAAK,OAAO,EAAE,KAAK,QAAQ,EAAE,MAAM,YAAY,KAAG,OAAO,CAAC,IAAI,CAgCtF,CAAA;AAED,OAAO,EACH,SAAS,EACZ,CAAC"}
